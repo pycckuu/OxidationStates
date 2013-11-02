@@ -1,3 +1,5 @@
 OxidationStates::Application.routes.draw do
-  root :to => 'visitors#new'
+  resources :oxidation_states
+
+  root :to => 'visitors#index'
 end

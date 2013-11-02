@@ -1,6 +1,7 @@
 class VisitorsController < ApplicationController
 
-  def new
+  def index
+    @oxidation_states = OxidationState.all
   end
 
 end
