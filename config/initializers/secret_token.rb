@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-OxidationStates::Application.config.secret_key_base = '6cd09de28071138527d945be2293b156addf9bc251741962aeeed58faa9db804898b1c5618a81fc5fcf0d5ad2cf767acf97fd0bbbb1a72bdd44f39b59ff37ca6'
+OxidationStates::Application.config.secret_key_base = 'ec0f4641d07554c864e21c4cf4b4c6d6fffeff80ceb9c936dfa8111f77e32c6db3c97c6ab48a24a96348239feb6e37f49562c470cad079ff32d3b2d7dca4e4fa'
